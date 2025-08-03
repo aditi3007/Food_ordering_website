@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/aditi3007.github.io/Food-ordering-website",
+  "homepage": "https://github.com/aditi3007.github.io/Food_ordering_website",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
